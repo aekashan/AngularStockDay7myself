@@ -1,0 +1,1 @@
+# AngularStockDay7myself
